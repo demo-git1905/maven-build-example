@@ -47,7 +47,7 @@
   </dependencies>
 
   <properties>
-    <compileSource>1.5</compileSource>
+    <compileSource>17</compileSource>
   </properties>
 
 </project>
